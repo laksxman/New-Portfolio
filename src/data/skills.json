@@ -1,0 +1,25 @@
+{
+  "frontend": [
+    { "name": "HTML", "level": 90, "icon": "SiHtml5", "color": "#E34F26" },
+    { "name": "CSS", "level": 85, "icon": "FaCss3Alt", "color": "#1572B6" },
+    { "name": "JavaScript", "level": 88, "icon": "SiJavascript", "color": "#F7DF1E" },
+    { "name": "React.js", "level": 92, "icon": "SiReact", "color": "#61DAFB" },
+    { "name": "Tailwind CSS", "level": 90, "icon": "SiTailwindcss", "color": "#06B6D4" },
+    { "name": "Bootstrap", "level": 85, "icon": "SiBootstrap", "color": "#7952B3" }
+  ],
+  "backend": [
+    { "name": "Node.js", "level": 85, "icon": "SiNodedotjs", "color": "#339933" },
+    { "name": "Express.js", "level": 82, "icon": "SiExpress", "color": "#000000" }
+  ],
+  "languages": [
+    { "name": "Java", "level": 80, "icon": "FaJava", "color": "#007396" },
+    { "name": "Python", "level": 72, "icon": "SiPython", "color": "#3776AB" },
+    { "name": "C", "level": 75, "icon": "SiC", "color": "#A8B9CC" },
+    { "name": "C++", "level": 78, "icon": "SiCplusplus", "color": "#00599C" }
+  ],
+  "database": [
+    { "name": "MongoDB", "level": 80, "icon": "SiMongodb", "color": "#47A248" },
+    { "name": "MySQL", "level": 85, "icon": "SiMysql", "color": "#4479A1" }
+  ]
+}
+
