@@ -11,6 +11,16 @@
   },
   {
     "id": 2,
+    "title": "Movieify Website",
+    "description": "A highly animated movie web page often use immersive storytelling to mimic the feel of cinema through the browser.",
+    "image": "/src/assets/movie.png",
+    "category": "Frontend",
+    "tech": ["React.js", "Tailwind CSS"],
+    "liveUrl": "https://movie-website-6ew4.onrender.com/",
+    "githubUrl": "https://github.com/laksxman/MOVIE-WEBSITE"
+  },
+  {
+    "id": 3,
     "title": "AI Based Exam Notes Platform",
     "description": "An AI-based Exam notes websites that will create a notes based on user requirement with Chart, Diagram.....",
     "image": "/src/assets/ExamNotes.png",
@@ -20,7 +30,7 @@
     "githubUrl": "https://github.com/laksxman/AI-Based-Exam-Notes"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Video Confrencing Website",
     "description": "A dynamic video conferencing solution designed for high-definition virtual meetings and real-time collaboration. It features seamless screen sharing, interactive chat, and scalable infrastructure for reliable remote communication.",
     "image": "/src/assets/zoom.png",
@@ -30,7 +40,7 @@
     "githubUrl": "https://github.com/laksxman/LiveMeet-website"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "SmartStay Website",
     "description": "A comprehensive hospitality marketplace connecting travelers with unique accommodations and local hosts worldwide. It features a robust booking engine with integrated search filters and secure payment processing.",
     "image": "/src/assets/HotelBooking.png",
@@ -40,7 +50,7 @@
     "githubUrl": "https://github.com/laksxman/SmartStay-Website"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "Stock Exchange Platform",
     "description": "A high-performance trading platform featuring real-time market data and seamless order execution. It offers an intuitive dashboard with advanced charting tools for a streamlined investing experience.",
     "image": "/src/assets/Stock.png",
@@ -50,7 +60,7 @@
     "githubUrl": "https://github.com/laksxman/Stock-Exchange-Platform"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "IELTS website",
     "description": "A sophisticated language proficiency assessment platform designed to evaluate and certify global English communication skills. It provides an automated testing environment with modules for reading, writing, listening, and speaking analytics.",
     "image": "/src/assets/ielts.png",
@@ -60,7 +70,7 @@
     "githubUrl": "https://github.com/laksxman/Ielts"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Coffee Store",
     "description": "An immersive e-commerce storefront dedicated to premium coffee roasts and artisanal brewing equipment. It features a curated product catalog with integrated subscription management and a seamless checkout experience for coffee enthusiasts.",
     "image": "/src/assets/cafe.webp",
@@ -70,7 +80,7 @@
     "githubUrl": "https://github.com/laksxman/COFFEE-PROJECT"
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "Task Manager",
     "description": "A content management system for developers to create and manage their portfolio websites with customizable themes.",
     "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=600&h=400&fit=crop",
